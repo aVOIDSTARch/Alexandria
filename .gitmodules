@@ -1,0 +1,9 @@
+[submodule "tts"]
+	path = tts
+	url = git@github.com:aVOIDSTARch/tts.git
+[submodule "server"]
+	path = server
+	url = git@github.com:aVOIDSTARch/server.git
+[submodule "file-processor"]
+	path = file-processor
+	url = git@github.com:aVOIDSTARch/file-processor.git

@@ -481,3 +481,9 @@ test-results/
 *.min.css
 @aVOIDSTARch
 Comment
+Books/*
+!Books/.gitkeep
+books/*
+!books/.gitkeep
+audiobooks/*
+!audiobooks/.gitkeep
